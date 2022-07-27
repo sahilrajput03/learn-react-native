@@ -11,7 +11,7 @@
 **Beautiful Topics in `react-navigation`:**
 - [Stack Navigator](https://reactnavigation.org/docs/stack-navigator/) vs. [Native Stack Navigator](https://reactnavigation.org/docs/native-stack-navigator): They both provides a way for your app to transition between screens where each new screen is placed on top of a stack. TLDR: This navigator uses the native APIs UINavigationController on iOS and Fragment on Android so that navigation built with createNativeStackNavigator will behave exactly the same and have the same performance characteristics as apps built natively on top of those APIs. It also offers basic Web support using react-native-web.
 - React navigation works on web as well: [Read Official Release article](https://reactnavigation.org/blog/2020/05/16/web-support/), dated: 27 July, 2022
-- Amazing react-navigation Router Playground: [Playground](https://reactnavigation.org/docs/configuring-links/#playground). FYI: You can edit `url` and `current state` of route in settings to get the results in `Chart`, `State` and `Action` format.
+- Amazing react-navigation Router Playground: [Playground](https://reactnavigation.org/docs/configuring-links/#playground). FYI: You can edit `url` and `current state` of route to get the results in `Chart`, `State` and `Action` format.
 
 **Others:**
 - Deep linking in react-router-native [Source](https://v5.reactrouter.com/native/api/DeepLinking)
