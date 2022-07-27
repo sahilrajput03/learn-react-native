@@ -14,7 +14,7 @@ Topics:
 Others:
 - Deep linking in react-router-native [Source](https://v5.reactrouter.com/native/api/DeepLinking)
 
-- **Npm stats about `react-navigation` vs. `react-router-native` vs. [`react-native-navigation`](https://github.com/wix/react-native-navigation) (in react-navigation [getting started](https://reactnavigation.org/docs/getting-started/) it says to start with: `npm install @react-navigation/native`)**
+- **Npm stats about `react-navigation`(21.4K*) vs. `react-router-native`(lives in monorepo [here](https://github.com/remix-run/react-router)) vs. [`react-native-navigation` 12.6K*](https://github.com/wix/react-native-navigation) (in react-navigation [getting started](https://reactnavigation.org/docs/getting-started/) it says to start with: `npm install @react-navigation/native`)**
 
   DATE: 27 July, 2022.
 
