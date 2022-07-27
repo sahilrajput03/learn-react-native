@@ -4,7 +4,7 @@ Points to remember:
 - [React navigation](https://github.com/react-navigation/react-navigation) is recommended solution by react-native team. [@source: react-native Docs](https://reactnative.dev/docs/navigation)
 - All packages by react-navigation: [Click here](https://github.com/react-navigation/react-navigation/tree/main/packages)
 - A deprecated npm library of [react-navigation@npm](https://www.npmjs.com/package/react-navigation)
-- Fast and Express way of learning react-navigation: https://www.reactnative.express/
+- Fast and Express way of learning `react-native` and `react-navigation`: https://www.reactnative.express/
 
 Another navigation library that promises to provide native performance and is imperative as it runs directly on the native apis i.e., [`react-native-navigation`](https://github.com/wix/react-native-navigation) and there is a guide on [plugging it into existing app code base here](https://wix.github.io/react-native-navigation/docs/installing/#installing-with-npx-rnn-link).
 
