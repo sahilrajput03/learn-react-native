@@ -16,6 +16,8 @@ Others:
 
 - **Npm stats about `react-navigation` vs. `react-router-native` vs. [`react-native-navigation`](https://github.com/wix/react-native-navigation) (in react-navigation [getting started](https://reactnavigation.org/docs/getting-started/) it says to start with: `npm install @react-navigation/native`)**
 
+  DATE: 27 July, 2022.
+
   ![image](https://user-images.githubusercontent.com/31458531/181168170-35b2636b-845d-44cd-b9b1-04a7817fb2db.png)
   ![image](https://user-images.githubusercontent.com/31458531/181168015-c48a61dc-4d63-4738-b01f-f44d7f1e44bf.png)
   ![image](https://user-images.githubusercontent.com/31458531/181172066-4be9a941-7942-4330-a309-e0e5101e97c8.png)
