@@ -3,6 +3,7 @@
 Points to remember:
 - React navigation is recommended solution by react-native team. [Source](https://reactnative.dev/docs/navigation)
 - All packages by react-navigation: [Click here](https://github.com/react-navigation/react-navigation/tree/main/packages)
+- A deprecated version of [react-navigation@npm](https://www.npmjs.com/package/react-navigation)
 
 Others:
 - Deep linking in react-router-native [Source](https://v5.reactrouter.com/native/api/DeepLinking)
