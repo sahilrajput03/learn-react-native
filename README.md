@@ -5,6 +5,9 @@ Points to remember:
 - All packages by react-navigation: [Click here](https://github.com/react-navigation/react-navigation/tree/main/packages)
 - A deprecated version of [react-navigation@npm](https://www.npmjs.com/package/react-navigation)
 
+Topics: 
+- Stack Navigator vs. Native Stack Navigator: They both provides a way for your app to transition between screens where each new screen is placed on top of a stack.
+
 Others:
 - Deep linking in react-router-native [Source](https://v5.reactrouter.com/native/api/DeepLinking)
 
