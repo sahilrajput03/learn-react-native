@@ -1,5 +1,7 @@
 # README
 
+***tldr: React-navigation is most robust.***
+
 Points to remember:
 - [React navigation](https://github.com/react-navigation/react-navigation) is recommended solution by react-native team. [@source: react-native Docs](https://reactnative.dev/docs/navigation)
 - All packages by react-navigation: [Click here](https://github.com/react-navigation/react-navigation/tree/main/packages)
@@ -11,7 +13,8 @@ Topics:
 
 Others:
 - Deep linking in react-router-native [Source](https://v5.reactrouter.com/native/api/DeepLinking)
-Another navigation library that promises to provide native performance and is imperative as it runs directly on the native apis i.e., [`react-native-navigation`](https://github.com/wix/react-native-navigation) and there is a guide on [plugging it into existing app code base here](https://wix.github.io/react-native-navigation/docs/installing/#installing-with-npx-rnn-link).
+- Another navigation library that promises to provide native performance and is imperative as it runs directly on the native apis i.e., [`react-native-navigation`](https://github.com/wix/react-native-navigation) and there is a guide on [plugging it into existing app code base here](https://wix.github.io/react-native-navigation/docs/installing/#installing-with-npx-rnn-link).
+- An amazing article comparing react-navigation and react-native-navigation: [Click here](https://blog.logrocket.com/react-navigation-vs-react-native-navigation/).
 - **Npm and Github STATS:**
 
   - Github: **`react-navigation`(21.4K\*) vs. `react-router-native`(in monorepo [here](https://github.com/remix-run/react-router)) vs. [`react-native-navigation`](https://github.com/wix/react-native-navigation) 12.6K\***
