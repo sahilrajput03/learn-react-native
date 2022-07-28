@@ -22,3 +22,7 @@
   - DATE: 27 July, 2022.
   - *In react-navigation [getting started](https://reactnavigation.org/docs/getting-started/) it says to start with: `npm install @react-navigation/native`.*
   - Npm: [compare-npm-stats](compare-npm-stats.md)
+
+Open source react-native projects
+
+- Medium Articles: [Par1](https://javascript.plainenglish.io/7-react-native-open-source-projects-to-become-a-better-mobile-app-developer-43a77b1cb389), [Part2](https://javascript.plainenglish.io/7-react-native-open-source-projects-to-become-a-better-mobile-app-developer-345840199fcd), [Part3](https://javascript.plainenglish.io/7-react-native-open-source-projects-to-become-a-better-mobile-app-developer-e33ef5b73ec)
